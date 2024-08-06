@@ -3,11 +3,11 @@
 These are for sniper launch with multiple wallets and boosting meme coins on hot trending using Volume and Holder bots.
 
 ## Website
-https://memepump.net
+https://memepump.net \
 
 ## Sniper Launchpad
-https://sol.memepump.net (Raydium)
-https://fun.memepump.net (PumpFun)
+https://sol.memepump.net (Raydium) \
+https://fun.memepump.net (PumpFun) \
 https://eth.memepump.net (Ethereum & Base)
 
 ## Document
